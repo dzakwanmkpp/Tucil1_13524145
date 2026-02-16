@@ -62,6 +62,9 @@ Fitur GUI:
 **Dzakwan Muhammad Khairan P. P.**
 
 NIM: 13524145
+
 Program Studi Teknik Informatika
+
 Institut Teknologi Bandung
+
 
